@@ -17,6 +17,8 @@ creator:
     - http://es.wikipedia.org/wiki/Pío_Baroja
     - http://en.wikipedia.org/wiki/P%C3%ADo_Baroja
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43017#Mala-Hierba
 gutenberg_issued: '2013-06-23'
 gutenberg_type: Text
 identifiers:
